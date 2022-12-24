@@ -1,21 +1,25 @@
-# *Müconunkinden kaçış* 
+# **Kodluyoruz Ilk Repo** 
 
-***
-o9qutguıergwefgsgsıjhety
+Bu repo Kodluyoruz Front end Eğitiminde oluşturduğumuz ilk repo. İçerisinde bir adet README dosyası,bir adet index.html dosyası barındırıyor.
 
-euj 3u2tuıh31313131
+![Kodluyoruzresim](https://raw.githubusercontent.com/Kodluyoruz/taskforce/git/git/markdown-nedir-nasil-kullaniriz-/figures/kodluyoruz_logo.jpg)
 
-fuoeqsahgugsgshgsug
-***
-### **MAMONUNKİNDEN KACIS** **(1CM)**
+## **Installation**
 
-[1CM](http:/
-)
-*** 
-![1CM GÖRMEK İCİN TIKLA](https://www.ereglionder.com.tr/images/haberler/onder_4417383075.jpg)
-***
-
-```javascript
-
-git clone https://google.com
+Öncelikle projeyi clonelayın. (Buraya sizin reponuuzdan aldığınız link gelecek)
 ```
+git clone https://github.com/Mucahits0/kodluyoruzilkrepo.git
+```
+## **Usage**
+Projeyi cloneladıktan sonra Visual Studio Code programını açınız.
+
+Linux için:
+```
+cd kodluyoruzilkrepo
+code .
+```
+## **Contributing**
+Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi değiştirmek istediğinizi tartışmak için bir konu açınız.
+## **License**
+[MIT](https://choosealicense.com/licenses/mit/)
+
